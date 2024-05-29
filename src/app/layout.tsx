@@ -6,7 +6,7 @@ import { SessionProvider } from "next-auth/react";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "PetSoft - Pet daycare software",
+  title: "PetSoft - Pet Daycare Software",
   description: "Take care of people's pets responsibly with PetSoft.",
 };
 
